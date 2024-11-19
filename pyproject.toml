@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pydantic-api-models"
-version = "0.0.1"
+version = "0.0.2"
 description = "Make API self-explanatory with pydantic"
 packages = [{ include = "pydantic_api" }]
 authors = ["stevieflyer"]
